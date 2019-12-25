@@ -16,6 +16,7 @@ var twoSum = function (nums, target) {
         for (let j = i + 1; j < nums.length; j++) {
             sum = nums[i] + nums[j]
             if (sum === target) {
+                // two sum function
                 return [i, j]
             }
 
