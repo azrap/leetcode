@@ -2,4 +2,4 @@
 leet code problems and solutions
 
 Solution tracking system spreadsheet: 
-https://docs.google.com/spreadsheets/d/1_-1EE5i1C-h9m5ELpKFpQqzWGHMKd7ybS3OpEDo4L8k/edit#gid=0
+https://docs.google.com/spreadsheets/d/1MSnecR0UVjW91ipyfrrH4dCN6iGnRDMllD_YdcFiBa4/edit?folder=0AO2JLvaHgVDfUk9PVA#gid=0
