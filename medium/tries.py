@@ -41,27 +41,27 @@ for code in codes:
 
 results = [""]*len(num)
 
-for i, num in enumerate(numbers):
-    for j, code in enumerate(output):
-        # if the code is in the number:
-        # if len(code) > len(current code in the results array for that number):
-        # replace it
+# for i, num in enumerate(numbers):
+#     for j, code in enumerate(output):
+# if the code is in the number:
+# if len(code) > len(current code in the results array for that number):
+# replace it
 
-        # list of numbers
+# list of numbers
 
-        # words = ["wait", "waiter", "shop", "shopper"]
-        # for word in words:
-        #     trie.add_word(word)
+# words = ["wait", "waiter", "shop", "shopper"]
+# for word in words:
+#     trie.add_word(word)
 
-        # print(trie.does_word_exist("wait"))  # True
-        # print(trie.does_word_exist(""))  # True
-        # print(trie.does_word_exist("waiti"))  # False
-        # print(trie.does_word_exist("shop"))  # True
-        # print(trie.does_word_exist("shopp"))  # False
+# print(trie.does_word_exist("wait"))  # True
+# print(trie.does_word_exist(""))  # True
+# print(trie.does_word_exist("waiti"))  # False
+# print(trie.does_word_exist("shop"))  # True
+# print(trie.does_word_exist("shopp"))  # False
 
-        # for code in codes:
-        #     print('code outside', code)
-        #     if trie.does_word_exist(code):
-        #         print('code inside', code)
-        #         output.append(code)
-        # print(trie.add_num("123490485904"))
+# for code in codes:
+#     print('code outside', code)
+#     if trie.does_word_exist(code):
+#         print('code inside', code)
+#         output.append(code)
+# print(trie.add_num("123490485904"))
